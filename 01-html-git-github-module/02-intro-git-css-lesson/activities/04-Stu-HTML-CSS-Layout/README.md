@@ -2,18 +2,15 @@
 
 ## Instructions:
 
-<<<<<<< HEAD
 * Unzip the folder provided to you (or copy and paste the contents outside).
 * Use the command line to make a folder called `css`.
 * Use the command line to make a file called `style.css` inside of the `css` folder.
 * Reference the `style.css` in your `html-bio-with-css.html` file. You do this by placing `<link rel="stylesheet" type="text/css" href="css/style.css">` inside the `<head>` tag.
 * Style the example on the projector.
-=======
 * Use the command line to make a folder called `css`.
 * Use the command line to make a file called `style.css` inside of the `css` folder.
 * Reference the `style.css` in your `html-bio-with-css.html` file. You do this by placing `<link rel="stylesheet" type="text/css" href="css/style.css">` inside the `<head>` tag.
 * Style the starter HTML file to match the `demo.png` file.
->>>>>>> 7425603e7a1a04daa9f3a95e0087bd6c0a3456aa
   * Add a `class` called "container" on the `div` tag. For example: `<div class="container">`.
   * Add an `id` called "main-bio" for the first `section` tag.
   * Add an `id` called "contact-info" for the second `section` tag.
@@ -35,11 +32,7 @@
   * `h1`
     * The font color is `#eee`.
     * The font size is `28px`.
-<<<<<<< HEAD
-    * Look at the example on the screen, and eyeball the padding and/or margins and positioning of the text.
-=======
     * Look at the example from the `demo.png`, and eyeball the padding and/or margins and positioning of the text.
->>>>>>> 7425603e7a1a04daa9f3a95e0087bd6c0a3456aa
   * `h2`
     * The font size is `24px`
   * Make the container have a width of 1,024 pixels and center it. You do this using `margin: 0 auto;`.
